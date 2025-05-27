@@ -2,7 +2,8 @@
 checker Kotaro  
 
 **Editor-kun** 
-Kaya 
+Kaya
+
 **Input and feedback**
 hrithik & KeyDifference  
 
