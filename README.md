@@ -1,5 +1,5 @@
-**Host & fact** 
-checker Kotaro  
+**Host & fact checker** 
+Kotaro  
 
 **Editor-kun** 
 Kaya
